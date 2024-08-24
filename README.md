@@ -1,5 +1,4 @@
-# uolevi
-Uolevi restoration documentation
+# Uolevi
 
 Project documentation is split into the following directory structure:
 - 3D Models: 3D-printable mechanical components
